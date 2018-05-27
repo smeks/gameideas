@@ -3,8 +3,9 @@ Solve puzzles by taking information from systems and integrate them into custom 
 
 2D game with components the user will extend and connect.  Creating connections generates additional connectable nodes.  For example a new function on the server is created when the server is connected to a field in the database which then can be connected to other parts.
 
+
 ## Puzzle #1 Display employees
-```
+
 ### available components to use
 	1. database with several tables
 	2. server module
@@ -19,9 +20,10 @@ Solve puzzles by taking information from systems and integrate them into custom 
 
 ### win scenario
 	app displays employee names
-```
+
+	
 ## Puzzle #2 Add employee
-```
+
 ### available components to use
 	1. database with several tables
 	2. server
@@ -39,4 +41,3 @@ Solve puzzles by taking information from systems and integrate them into custom 
 
 ### win scenario
 	app creates new entry in database in the employees table when text is entered into text field and button is pressed.
-```

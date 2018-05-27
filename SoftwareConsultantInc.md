@@ -1,7 +1,9 @@
 # Software Consultant Inc
-Solve puzzles by taking information from systems and integrate them into custom business solutions.
+Solve puzzles by taking information from systems and integrate them into custom business solutions.  It would function similar to shenzhen io but without any programming and more focused about integrating between different systems to solve practical business requirements.
 
-2D game with components the user will extend and connect.  Creating connections generates additional connectable nodes.  For example a new function on the server is created when the server is connected to a field in the database which then can be connected to other parts.
+It would be a 2D game with many simple components the user will extend and connect to create a very complex system.  Creating connections generates additional connectable nodes.  For example you can define a data component in the app with some simple data elements.  Connecting the data component from the app to the server will generate methods to communicate the data between the app and the server and the definition will be on the server that can be used further.
+
+Another example; taking a very slow process and splitting it up into several queued jobs that work on one small thing at a time and taking the output of one process as input into another.
 
 
 ## Puzzle #1 Display employees
